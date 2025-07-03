@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<img height="150px" width="auto" align="left" src="https://github-readme-stats.vercel.app/api?username=christiangoeschel&show_icons=true&theme=graywhite"/>
-
-<img height="150px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christiangoeschel&layout=compact&theme=graywhite"/>
-
+This is my old account, please do not look at the atrocious projects I created here and visit my new one which are less horrible: https://github.com/cgoesche 
 
 
